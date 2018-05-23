@@ -1,0 +1,24 @@
+
+
+.container{
+    
+   
+    text-align: center;
+    display: flex;
+    justify-content: center;    
+    
+
+}
+.box{
+    width: 20%;
+    
+}
+th{
+    background-color: #3399ff;
+}
+td{
+    background-color: #ffffff;
+    
+}
+
+
